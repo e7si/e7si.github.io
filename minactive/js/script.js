@@ -6,9 +6,3 @@ function s(){
 
     window.open(shape, '_blank');
 }
-
-function use(){
-    $(function(){
-        introJs().start();
-    });
-}
